@@ -10,5 +10,4 @@ public class DicewareApplication {
     SpringApplication.run(DicewareApplication.class, args);
   }
 
-
 }
